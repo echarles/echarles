@@ -1,5 +1,4 @@
 ### About
 
-Hi, I am Eric Charles.
+Hi, I am Eric Charles. I disrupt or die [@datalayer](https://github.com/datalayer).
 
-I disrupt or die [@datalayer](https://github.com/datalayer).
